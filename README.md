@@ -1,6 +1,6 @@
 # cit281-lab2
 
-[roman-synkevych-wX2L8L-fGeA-unsplash.jpg](https://github.com/Ruichen11/cit281-lab2/blob/aae08868b617fa20b858c3c655885b44d491f12e/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
+![Image](https://github.com/Ruichen11/cit281-lab2/blob/aae08868b617fa20b858c3c655885b44d491f12e/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
 
 Purpose of this lab: 
 * Using CLI commands for directory and file manipulation. 
