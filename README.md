@@ -15,6 +15,7 @@ Purpose of this lab:
 
 
 ## What I learned from the lab 
-* Learned how to create a git repo, adding files to git using CLI commands. 
+* Learned how to create a git repo
+* adding files to git using CLI commands. 
 
 [Sourcecode](https://ruichen11.github.io/Ruichen11.CIT-Minor/)
